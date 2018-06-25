@@ -1,0 +1,23 @@
+.sliders-container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-image: url(../images/background01.jpg)
+    }
+  canvas{
+      top: 0px;
+      left: 0px;
+      width: 100%;
+      height: 100%;
+      z-index: 999999999;
+      position: absolute;
+  }
+
+  .circleImg{
+      width: 118px;
+      height: 118px;
+      border-radius: 59px;
+      background-color: #fff;
+      margin: auto;
+  }
